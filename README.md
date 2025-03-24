@@ -1,29 +1,24 @@
-# 👋 Hello, I'm Renz!  
+# 👋 Hi, I'm Renz!  
 
-## 🚀 About Me  
-🎓 **Computer Science Student** at **National University**  
-🧠 Passionate about **machine learning, game development, and automation**  
-🎨 **Urban sketching enthusiast & esports supporter**  
+🎓 **CS Student @ National University** | 🚀 Passionate about **AI, Game Dev & Automation**  
+🎮 **Esports Enthusiast** | 🎨 **Urban Sketching Fan**  
 
 ## 🔥 Interests  
-- 🤖 **AI & Automation**  
-- 📊 **Data Science**  
-- 🎮 **Game Development**  
-- 💻 **Web & App Development**
-- 🖼️ **Computer Vision**  
-- ⚙️ **Arduino & Embedded Systems**   
+- 🤖 AI & Automation  
+- 📊 Data Science  
+- 🎮 Game Development  
+- 💻 Web & App Development  
+- 🖼️ Computer Vision  
 
 ## 📚 Currently Learning  
-- 🐍 **Python & Machine Learning**  
-- ☕ **Java (GUI & Game Development)**  
-- 🔧 **Hardware & Networking Fundamentals**
-- 🖥️ **Operating Systems** 
+- 🐍 Python & Machine Learning  
+- ☕ Java (GUI & Games)  
+- 🔧 Hardware & Networking  
 
 ## 🏛️ Organizations  
-- 📌 **Secretary** of **Wizards Circle**  
-- 🎮 **Associate Esports Director** of **NUWC**  
-- 🚀 **Active Member** of **GDSC**  
+- 📌 **Secretary, Wizards Circle**  
+- 🎮 **Assoc. Esports Director, NUWC**  
+- 🚀 **GDSC Member**  
 
-## 📬 How to Reach Me  
-📧 **Email:** [viloriarenz917@gmail.com](mailto:viloriarenz917@gmail.com)  
-💼 **LinkedIn:** [Renz Viloria]([#](https://www.linkedin.com/in/renz-viloria-b8035634b/))
+## 📬 Contact Me  
+📧 [Email](mailto:viloriarenz917@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/renz-viloria-b8035634b/)
