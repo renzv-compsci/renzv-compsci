@@ -8,7 +8,7 @@
 ## 🔥 Interests  
 - 🤖 **AI & Automation**  
 - 📊 **Data Science**  
-- 🎮 **Game Development (Retro & Educational)**  
+- 🎮 **Game Development**  
 - 💻 **Web & App Development**  
 
 ## 📚 Currently Learning  
