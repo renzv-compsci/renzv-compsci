@@ -4,21 +4,13 @@
 🎮 **Esports Enthusiast** | 🎨 **Urban Sketching Fan**  
 
 ## 🔥 Interests  
-- 🤖 AI & Automation  
-- 📊 Data Science  
-- 🎮 Game Development  
-- 💻 Web & App Development  
-- 🖼️ Computer Vision  
+🤖 AI & Automation | 📊 Data Science | 🎮 Game Dev | 💻 Web & App Dev | 🖼️ Computer Vision  
 
-## 📚 Currently Learning  
-- 🐍 Python & Machine Learning  
-- ☕ Java (GUI & Games)  
-- 🔧 Hardware & Networking  
+## 📚 Learning  
+🐍 Python & ML | ☕ Java (GUI & Games) | 🔧 Operating Systems
 
-## 🏛️ Organizations  
-- 📌 **Secretary, Wizards Circle**  
-- 🎮 **Assoc. Esports Director, NUWC**  
-- 🚀 **GDSC Member**  
+## 🏛️ Roles  
+📌 Secretary, Wizards Circle | 🎮 Assoc. Esports Director, NUWC | 🚀 GDSC Member  
 
 ## 📬 Contact Me  
 📧 [Email](mailto:viloriarenz917@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/renz-viloria-b8035634b/)
