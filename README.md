@@ -17,7 +17,7 @@
 - 🐍 **Python & Machine Learning**  
 - ☕ **Java (GUI & Game Development)**  
 - 🔧 **Hardware & Networking Fundamentals**
-- - 🖥️ **Operating Systems** 
+- 🖥️ **Operating Systems** 
 
 ## 🏛️ Organizations  
 - 📌 **Secretary** of **Wizards Circle**  
