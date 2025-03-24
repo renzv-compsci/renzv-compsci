@@ -9,12 +9,15 @@
 - 🤖 **AI & Automation**  
 - 📊 **Data Science**  
 - 🎮 **Game Development**  
-- 💻 **Web & App Development**  
+- 💻 **Web & App Development**
+- 🖼️ **Computer Vision**  
+- ⚙️ **Arduino & Embedded Systems**   
 
 ## 📚 Currently Learning  
 - 🐍 **Python & Machine Learning**  
 - ☕ **Java (GUI & Game Development)**  
-- 🔧 **Hardware & Networking Fundamentals**  
+- 🔧 **Hardware & Networking Fundamentals**
+- - 🖥️ **Operating Systems** 
 
 ## 🏛️ Organizations  
 - 📌 **Secretary** of **Wizards Circle**  
