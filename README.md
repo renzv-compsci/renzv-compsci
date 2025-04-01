@@ -7,7 +7,7 @@
 🤖 AI & Automation | 📊 Data Science | 🎮 Game Dev | 💻 Web & App Dev | 🖼️ Computer Vision  
 
 ## 📚 Learning  
-🐍 Python & ML | ☕ Java (GUI & Games) | 🔧 Operating Systems
+🐍 Python & ML | ☕ Java (GUI & Games) | 🔧 Operating Systems | App / Web Development 
 
 ## 🏛️ Roles  
 📌 Secretary, Wizards Circle | 🎮 Assoc. Esports Director, NUWC | 🚀 GDSC Member  
