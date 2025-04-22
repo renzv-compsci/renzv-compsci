@@ -9,6 +9,13 @@
 ## 📚 Learning  
 🐍 Python & ML | ☕ Java (GUI & Games) | 🔧 Operating Systems | App / Web Development 
 
+##🛠️ Tech Stack
+Programming Languages: Java, JavaScript, C
+
+Web Development: HTML, CSS, JavaScript
+
+DevOps: Figma, OpenCV, Arduino
+
 ## 🏛️ Roles  
 📌 Secretary, Wizards Circle | 🎮 Assoc. Esports Director, NUWC | 🚀 GDSC Member  
 
