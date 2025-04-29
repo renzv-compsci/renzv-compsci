@@ -10,7 +10,7 @@
 🐍 Python & ML | ☕ Java (GUI & Games) | 🔧 Operating Systems | App / Web Development 
 
 ## 🛠️ Tech Stack
-Programming Languages: Java, JavaScript, C
+Programming Languages: Java, JavaScript, C, Python
 
 Web Development: HTML, CSS, JavaScript
 
