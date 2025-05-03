@@ -28,6 +28,8 @@
 
 ###
 
+![renzv-compsci's Stats](https://github-readme-stats.vercel.app/api?username=renzv-compsci&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
+
 ## 🏛️ Roles  
 📌 Secretary, Wizards Circle | 🎮 Assoc. Esports Director, NUWC | 🚀 GDSC Member  
 
