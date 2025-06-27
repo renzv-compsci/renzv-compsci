@@ -24,18 +24,27 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/godot/godot-original-wordmark.svg" height="40" alt="godot logo" />       
 </div>
 
 ###
-
-## 🏛️ Roles  
-📌 Secretary, Wizards Circle | 🎮 Assoc. Esports Director, NUWC | 🚀 GDSC Member  
 
 ## 📬 Contact Me  
 📧 [Email](mailto:viloriarenz917@gmail.com) | 💼 [LinkedIn](https://www.linkedin.com/in/renz-viloria-b8035634b/)
 
 ## 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=renzv-compsci&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=renzv-compsci&theme=one_dark_pro&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=renzv-compsci&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=renzv-compsci&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=renzv-compsci&theme=one_dark_pro&hide_border=false"/>
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=renzv-compsci&theme=one_dark_pro&hide_border=false&include_all_commits=false&count_private=true&layout=compact"/>
+    </td>
+  </tr>
+</table>
 
