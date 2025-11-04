@@ -45,6 +45,10 @@
 ### 🎮 Game Development  
 <div align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original-wordmark.svg" height="40" alt="Godot" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" height="40" alt="SDL" />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" height="40" alt="Lua" />
 </div>  
 
 ### 🗄️ Databases  
@@ -80,4 +84,3 @@
     </td>
   </tr>
 </table>
-
