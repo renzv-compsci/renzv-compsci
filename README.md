@@ -49,62 +49,63 @@
 
 ## Technology Stack
 
-<!-- Master Centering Wrapper -->
 <table border="0" align="center">
   <tr>
     <td valign="top" align="left">
       <b>Frontend</b>
       <table>
         <tr>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" /><br />React</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" /><br />HTML5</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" /><br />CSS3</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="35" height="35" /><br />React</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" height="35" /><br />HTML5</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" height="35" /><br />CSS3</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" height="35" /><br />JavaScript</td>
+          <td align="center" width="85"><img src="https://streamlit.io/images/brand/streamlit-mark-color.png" width="35" height="35" /><br />Streamlit</td>
         </tr>
       </table>
       <br />
       <b>Backend</b>
       <table>
         <tr>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" /><br />Spring</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" height="35" /><br />FastAPI</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" /><br />Firebase</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" width="35" height="35" /><br />Spring</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/fastapi/fastapi-original.svg" width="35" height="35" /><br />FastAPI</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" width="35" height="35" /><br />Firebase</td>
         </tr>
       </table>
       <br />
       <b>Game Development</b>
       <table>
         <tr>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35" height="35" /><br />Godot</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="35" height="35" /><br />SDL</td>
-          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="35" height="35" /><br />Lua</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/godot/godot-original.svg" width="35" height="35" /><br />Godot</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sdl/sdl-original.svg" width="35" height="35" /><br />SDL</td>
+          <td align="center" width="85"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/lua/lua-original.svg" width="35" height="35" /><br />Lua</td>
         </tr>
       </table>
     </td>
-    <td width="30"></td> <!-- Spacer column -->
+    <td width="20"></td>
     <td valign="top" align="left">
       <b>Machine Learning</b>
       <table>
         <tr>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35" /><br />TensorFlow</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" /><br />PyTorch</td>
-          <td align="center" width="95"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35" /><br />HuggingFace</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="35" height="35" /><br />Scikit</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="35" height="35" /><br />TensorFlow</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="35" height="35" /><br />PyTorch</td>
+          <td align="center" width="90"><img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="35" height="35" /><br />HuggingFace</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="35" height="35" /><br />Scikit</td>
         </tr>
         <tr>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35" /><br />Pandas</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" /><br />NumPy</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" height="35" /><br />Matplotlib</td>
-          <td align="center" width="95"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2.svg" width="35" height="35" /><br />Statsmodels</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="35" height="35" /><br />Pandas</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="35" height="35" /><br />NumPy</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="35" height="35" /><br />Matplotlib</td>
+          <td align="center" width="90"><img src="https://www.statsmodels.org/dev/_images/statsmodels-logo-v2.svg" width="35" height="35" /><br />Statsmodels</td>
         </tr>
       </table>
       <br />
       <b>Databases & Systems</b>
       <table>
         <tr>
-          <td align="center" width="95"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="35" height="35" /><br />SQL</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35" /><br />SQLite</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" /><br />Postgres</td>
-          <td align="center" width="95"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" /><br />C</td>
+          <td align="center" width="90"><img src="https://www.svgrepo.com/show/331760/sql-database-generic.svg" width="35" height="35" /><br />SQL</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="35" height="35" /><br />SQLite</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" height="35" /><br />Postgres</td>
+          <td align="center" width="90"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" height="35" /><br />C</td>
         </tr>
       </table>
     </td>
